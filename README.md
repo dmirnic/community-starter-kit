@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This probot helps with all things GoT
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Use this for all your GoT needs
 
 ## Getting started
 
