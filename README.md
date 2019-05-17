@@ -1,8 +1,5 @@
-# welcome bot: A Probot App
 
 This probot helps with all things GoT
-
-## What it does
 
 Use this for all your GoT needs
 
